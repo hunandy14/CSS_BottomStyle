@@ -1,0 +1,49 @@
+.ZqhUjb2 {
+    background: transparent;
+    transition: box-shadow 0.25s ease-in-out;
+}
+
+.ZqhUjb2:active {
+    -webkit-box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+    box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+}
+
+.line2 {
+    /* Nh18Hf そとの線 */
+    color: #3c4043;
+    border: solid 1px #dadce0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    /* lSLCF　上下 */
+    height: 1px;
+    min-height: 2rem;
+    min-width: 2rem;
+    /* dHeVVb 左右 */
+    padding-left: 9px;
+    padding-right: 9px;
+    /* MDgEWb　丸 */
+    -webkit-border-radius: 0.1rem;
+    border-radius: 0.1rem;
+}
+
+.Nh18Hf2 {
+    color: #3c4043;
+    border: solid 1px #dadce0;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.Nh18Hf2:hover {
+    background: rgba(60, 64, 67, 0.039);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.iDvCIf2 {
+    display: inline-block;
+    font-weight: 500;
+    font-family: 'Google Sans', sans-serif;
+    color: inherit;
+    font-size: 0.875rem;
+    margin-bottom: -0.1em;
+}

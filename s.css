@@ -1,0 +1,113 @@
+.ZqhUjb {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-align-items: center;
+  cursor: pointer;
+  box-pack: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  box-align: center;
+  align-items: center;
+  padding: 0;
+  line-height: 1;
+  font-size: 0;
+  -webkit-appearance: none;
+  vertical-align: middle;
+  text-align: center;
+  background: transparent;
+  border: 0;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  min-height: 1.5rem;
+  min-width: 1.5rem;
+  position: relative;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 0 rgba(189, 193, 198, 0.502);
+  box-shadow: 0 0 0 rgba(189, 193, 198, 0.502);
+  -webkit-transition: box-shadow 0.25s ease-in-out;
+  transition: box-shadow 0.25s ease-in-out;
+  -webkit-user-select: none;
+}
+
+.ZqhUjb:active {
+  -webkit-box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+  box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+}
+
+.line {
+  /* Nh18Hf そとの線 */
+  color: #3c4043;
+  border: solid 1px #dadce0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  /* lSLCF　上下 */
+  height: 1px;
+  min-height: 2rem;
+  min-width: 2rem;
+  /* dHeVVb 左右 */
+  padding-left: 9px;
+  padding-right: 9px;
+  /* MDgEWb　丸 */
+  -webkit-border-radius: 1rem;
+  border-radius: 1rem;
+}
+
+.Nh18Hf {
+  color: #3c4043;
+  border: solid 1px #dadce0;
+  -webkit-box-shadow: none;
+  box-shadow: none
+}
+.Nh18Hf:hover {
+background: rgba(60, 64, 67, 0.039);
+-webkit-box-shadow: none;
+box-shadow: none;
+} 
+
+.iDvCIf {
+  display: inline-block;
+  font-weight: 500;
+  font-family: 'Google Sans', sans-serif;
+  color: inherit;
+  font-size: 0.875rem;
+  margin-bottom: -0.1em;
+}
+
+
+
+
+
+
+.ZqhUjb2 {
+  background: transparent;
+  transition: box-shadow 0.25s ease-in-out;
+}
+.ZqhUjb2:active {
+  -webkit-box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+  box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+}
+.line2 {
+  /* Nh18Hf そとの線 */
+  color: #3c4043;
+  border: solid 1px #dadce0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  /* lSLCF　上下 */
+  height: 1px;
+  min-height: 2rem;
+  min-width: 2rem;
+  /* dHeVVb 左右 */
+  padding-left: 9px;
+  padding-right: 9px;
+  /* MDgEWb　丸 */
+  -webkit-border-radius: 0rem;
+  border-radius: 0rem;
+}
+.Nh18Hf:hover {
+  background: rgba(60, 64, 67, 0.039);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  } 
