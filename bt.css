@@ -1,13 +1,3 @@
-.ZqhUjb2 {
-    background: transparent;
-    transition: box-shadow 0.25s ease-in-out;
-}
-
-.ZqhUjb2:active {
-    -webkit-box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
-    box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
-}
-
 .BcFEi2 {
     /* Nh18Hf そとの線 */
     color: #3c4043;
@@ -26,11 +16,15 @@
     border-radius: 0.1rem;
 }
 
-.Nh18Hf2 {
-    color: #3c4043;
-    border: solid 1px #dadce0;
-    -webkit-box-shadow: none;
-    box-shadow: none
+.ZqhUjb2 {
+    background: transparent;
+    transition: box-shadow 0.25s ease-in-out;
+}
+
+.ZqhUjb2:active {
+    -webkit-box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+    box-shadow: 0 1px 4px rgba(189, 193, 198, 1);
+    border: solid 1px rgba(189, 193, 198, 1);
 }
 
 .Nh18Hf2:hover {
